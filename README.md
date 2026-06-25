@@ -20,7 +20,7 @@ My master thesis focused on **differentiable DSP for audio reverberation**, expl
 
 The approach combines classical signal processing structures with machine learning optimization: the parameters of the DSP model are learned via backpropagation by comparing the predicted reverberated output with target real-world reverberant audio.
 
-The work was carried out within the research activities of [Image and Sound Processing Lab ]([https://github.com/lab-profile](https://github.com/polimi-ispl)).
+The work was carried out within the research activities of [Image and Sound Processing Lab]([https://github.com/lab-profile](https://github.com/polimi-ispl)).
 Due to the ongoing research work behind the project, code and results are not available here.
 
 ## ✨ Things I love
